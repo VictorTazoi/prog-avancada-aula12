@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748652843 source:c:\users\victo\desktop\30-05-2025\ex04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
